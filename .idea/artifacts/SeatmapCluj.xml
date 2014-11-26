@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SeatmapCluj">
+    <output-path>$PROJECT_DIR$/out/artifacts/SeatmapCluj</output-path>
+    <root id="archive" name="SeatmapCluj.jar">
+      <element id="module-output" name="SeatmapCluj" />
+      <element id="extracted-dir" path="C:/personals_Paul/pdfbox-app-1.8.7.jar" path-in-jar="/" />
+      <element id="library" level="project" name="pdfbox-app-1.8.7" />
+    </root>
+  </artifact>
+</component>
